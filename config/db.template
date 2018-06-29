@@ -1,0 +1,8 @@
+<?php
+
+$db_cred = [
+    'host' => '<DATABASE HOST>',
+    'user' => '<DATABASE USER>',
+    'password' => '<DATABASE PASSWORD>'
+    'database' => '<DATABASE NAME>'
+];
